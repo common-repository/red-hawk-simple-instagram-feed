@@ -1,0 +1,112 @@
+.redhawk_header {
+    background: #FFFFFF !important;
+    border: 2px solid #e6e6e6;
+}
+div#redhawk_super_table {
+    margin-left: 20%;
+    margin-right: 20%;
+    background: #fff;
+    border: 2px solid #e6e6e6;
+    padding: 1%;
+    font-size: 19px;
+    text-align: left;
+    font-weight: 400;
+    margin-top: 5%;
+}
+div#redhawk_super_table div {
+    display: inline-block;
+    width: 53%;
+}
+div#redhawk_super_table div input[type=text], 
+div#redhawk_super_table div input[type=number] {
+    width: 100% !important;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #262626;
+    border-radius: 3px;
+    box-shadow: unset !important;
+    border: 1px solid #efefef;
+    background: #fdfdfd;
+}
+div#redhawk_super_table div input[type=text]:focus, 
+div#redhawk_super_table div input[type=number]:focus {
+    border: 2px solid #a6c8ff;
+    background: #FFFFFF;
+}
+div#redhawk_super_table div.with-label {
+    border-left: 2px solid #262626;
+    padding-left: 1%;
+    background: #FAFAFA;
+    float: left;
+    width: 40%;
+    margin-right: 2%;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+div#redhawk_super_table .spacer {
+    width: 100% !important;
+}
+div#redhawk_super_table button.rhsif_submit_options {
+    text-align: center;
+    background: #3897f0;
+    border-color: #3897f0;
+    color: #fff;
+    border: 1px !important;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border-radius: 4px;
+    box-shadow: unset !important;
+    cursor: pointer;
+    width:50%;
+}
+div#redhawk_super_table .rhsif_submit-section {
+    width: 100% !important;
+    margin-top: 6% !important;
+    margin-bottom: 3% !important;
+}
+.rhsif_example {
+    margin-left: 20%;
+    margin-right: 20%;
+    background: #FAFAFA;
+    padding: 0.5%;
+}
+._rhsif_step_1, 
+._rhsif_step_2 {
+    border: 1px solid #f1f1f1;
+    margin: 1%;
+    background: #fff;
+}
+div#redhawk_alert.alert-success {
+    position: absolute;
+    background: rgba(56, 151, 240, 0.71);
+    padding: 1%;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-right: 20%;
+    width: 58%;
+    text-align: center;
+}
+button#redhawk_alert_close {
+    background: #FAFAFA;
+    border: 2px solid #dcdcdc;
+    display: block;
+    text-align: center;
+    width: 20%;
+    color: #282828;
+    margin-left: 40%;
+    margin-top: 1%;
+}
+a#rhsif_example {
+    text-decoration: none;
+    color: grey;
+}
+a#rhsif_example:hover {
+    text-decoration: none;
+    color: #00a0d2;
+    transition: 0.3s;
+}

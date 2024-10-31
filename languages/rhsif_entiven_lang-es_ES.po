@@ -1,0 +1,593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Traducción  Plugin\n"
+"POT-Creation-Date: 2017-07-23 07:31-0400\n"
+"PO-Revision-Date: 2017-07-23 07:38-0400\n"
+"Last-Translator: \n"
+"Language-Team: Gabriel Robles <info@entiven.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/controller/options.php:6
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: includes/controller/options.php:7
+msgid "please continue adjusting your plugin"
+msgstr "Sigue ajustando tu plugin"
+
+#: includes/controller/options.php:8
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/controller/options.php:25
+msgid "First step. Enter on Instagram, and copy the username from URL"
+msgstr "Primer paso. Entra a Instagram, copia el nombre de usuario del URL"
+
+#: includes/controller/options.php:32
+msgid "Second step. Paste below on the instagram username field"
+msgstr "Secundo paso. Debajo, pégalo en el campo de Nombre de usuario de Instagram"
+
+#: includes/controller/options.php:41
+msgid "Instagram username"
+msgstr "Nombre de usuario de Instagram"
+
+#: includes/controller/options.php:44
+msgid "View example"
+msgstr "Ver ejemplo"
+
+#: includes/controller/options.php:48
+msgid "Set quantity of photos what do you want display"
+msgstr "Establece la cantidad de fotos que vas a mostrar"
+
+#: includes/controller/options.php:52
+msgid "Set way how do you want display photos"
+msgstr "Copia el shortcode y pégalo en el lugar donde quieras que aparezcan las fotos"
+
+#: includes/controller/options.php:55
+msgid "Display photos on grid"
+msgstr "Si, quiero que las fotos estén en cuadriculas"
+
+#: includes/controller/options.php:57
+msgid "Display photos on a list"
+msgstr "Si, quiero que las fotos estén en lista"
+
+#: includes/controller/options.php:61
+msgid "Copy and paste this shortcode where do you want to display photos"
+msgstr "Copia el shortcode y pégalo en el lugar donde quieres que aparezcan las fotos"
+
+#: includes/controller/options.php:66
+msgid "Save"
+msgstr "Guardar cambios"
+
+#: includes/controller/options.php:74
+msgid "Powered by"
+msgstr "Creado por"
+
+#: includes/controller/options.php:75
+msgid "site"
+msgstr "sitio"
+
+#: includes/controller/options.php:76
+msgid "Coming soon, more options and more features.."
+msgstr "Muy pronto, más opciones y características.."
+
+#: includes/rhsif_simple_instagram_feed_grid.php:8
+#: includes/rhsif_simple_instagram_feed_list.php:8
+msgid "View on instagram"
+msgstr "Ver en instagram"
+
+#~ msgid "Welcome to Red Hawk"
+#~ msgstr "Bienvenido a Red Hawk"
+
+#~ msgid "Find the user ID of your instagram here"
+#~ msgstr "Puedes buscar el ID del usuario de Instagram aquí"
+
+#~ msgid "how many photos you need to show?"
+#~ msgstr "¿Cuántas fotos necesitas mostrar?"
+
+#~ msgid "You can set the photos on a grid?"
+#~ msgstr "¿Quieres que las fotos estén en cuadricula?"
+
+#~ msgid "No, leave photos in normal size"
+#~ msgstr "No, deja las fotos en un tamaño normal"
+
+#~ msgid "Please, paste in a field hexadecimal color or RGB color"
+#~ msgstr "Por favor, pega en el campo el color hexadecimal o RGB"
+
+#~ msgid "Please, type the text for your instagram grid photos"
+#~ msgstr "Por favor, escribe el texto que aparecerá en las cuadriculas"
+
+#~ msgid "Please, paste in a field hexadecimal color or RGB color for text"
+#~ msgstr "Por favor pega en el campo el color hexadecimal o RGB para el texto"
+
+#~ msgid "Please, paste in a field hexadecimal color or RGB color for icon"
+#~ msgstr "Por favor, pega en el campo el color hexadecimal o RGB para el ícono"
+
+#~ msgid "Welcome to"
+#~ msgstr "Bienvenido a"
+
+#~ msgid "bbpress is required for activate this plugin"
+#~ msgstr "Para que este plugin funcione necesitas instalar bbPress"
+
+#~ msgid "You can download the lastest version here"
+#~ msgstr "Puedes descargar la última versión aquí"
+
+#~ msgid "Follow us on"
+#~ msgstr "Síguenos en"
+
+#~ msgid "Version"
+#~ msgstr "Versión"
+
+#~ msgid "My Awesome Points Plugin"
+#~ msgstr "Mi asombroso plugin de puntos"
+
+#~ msgid "On this page, you can manage options for you plugin points"
+#~ msgstr "En esta páginas podrás administrar las opciones de tu plugin de puntos"
+
+#~ msgid "Basic settings"
+#~ msgstr "Configuraciones básicas"
+
+#~ msgid "Options points"
+#~ msgstr "Opción de puntos"
+
+#~ msgid "Reply points"
+#~ msgstr "Puntos por respuestas"
+
+#~ msgid "Ranks points"
+#~ msgstr "Puntos por rango"
+
+#~ msgid "Points per Likes"
+#~ msgstr "Puntos por \"Me Gusta\""
+
+#~ msgid "Ranks & emblems"
+#~ msgstr "Rangos & Emblemas"
+
+#~ msgid "Save all settings"
+#~ msgstr "Guardar todos los cambios"
+
+#~ msgid "Welcome to option for activate an epic synchronization with \"WP-ULIKE\""
+#~ msgstr "Bienvenido a la opción para activar una sincronización épica con \"WP-ULIKE\""
+
+#~ msgid "On this option, you can activate the function for earn points per Likes"
+#~ msgstr "En esta opción tú puedes activar la función para ganar puntos por \"Likes\" "
+
+#~ msgid "Please type the user_login of the administrator user"
+#~ msgstr "Por favor, coloca el user_login del administrador del sitio"
+
+#~ msgid "Options fields"
+#~ msgstr "Campo de opciones"
+
+#~ msgid "Objects"
+#~ msgstr "Objetos"
+
+#~ msgid "Values"
+#~ msgstr "Valores"
+
+#~ msgid "Configure the first rank name"
+#~ msgstr "Nombre del primer rango"
+
+#~ msgid "Rank name:"
+#~ msgstr "Nombre de rango:"
+
+#~ msgid "You have not selected any name for this range"
+#~ msgstr "No haz seleccionado ningún nombre para este rango"
+
+#~ msgid "url image for the first rank"
+#~ msgstr "Imagen del primer rango"
+
+#~ msgid "Rank image:"
+#~ msgstr "Imagen del rango"
+
+#~ msgid "You have not selected any image for this range"
+#~ msgstr "No haz seleccionado ninguna imagen para este rango"
+
+#~ msgid "url image for the second rank"
+#~ msgstr "url de la imagen del segundo rango"
+
+#~ msgid "Configure the third rank name"
+#~ msgstr "Nombre del tercer rango "
+
+#~ msgid "url image for the third rank"
+#~ msgstr "Imagen del tercer rango"
+
+#~ msgid "Configure the fourth rank name"
+#~ msgstr "Nombre del cuarto rango"
+
+#~ msgid "url image for the fourth rank"
+#~ msgstr "Imagen del cuarto rango"
+
+#~ msgid "Configure the Five special rank name"
+#~ msgstr "Configura el nombre del quinto rango especial"
+
+#~ msgid "url image for the five rank"
+#~ msgstr "imagen del quinto rango"
+
+#~ msgid "On this option you can determine how many points needed for level up"
+#~ msgstr "En esta opción puedes configurar cuántos puntos se necesitan para subir de nivel"
+
+#~ msgid "let's begin"
+#~ msgstr "Comencemos"
+
+#~ msgid "Points required for"
+#~ msgstr "Puntos requeridos para"
+
+#~ msgid "How many characters minimum are needed to get the point by reply?"
+#~ msgstr "¿Cuántos caracteres mínimos se necesitan para obtener el punto por respuesta?"
+
+#~ msgid "please, select the minimum character quantity on replies for obtain the reply point"
+#~ msgstr "Por favor, selecciona una cantidad mínima necesaria para obtener el punto por respuesta"
+
+#~ msgid "Quantity"
+#~ msgstr "Cantidad"
+
+#~ msgid "How many points per response will be obtained if the minimum number of characters is greater than "
+#~ msgstr "¿Cuántos puntos por respuesta se obtendrá si el número mínimo de caracteres es mayor que "
+
+#~ msgid "Please, select quantity of points by replys"
+#~ msgstr "Por favor, selecciona la cantidad de puntos por respuesta"
+
+#~ msgid "Points"
+#~ msgstr "Puntos"
+
+#~ msgid "Please choose a valid number for "
+#~ msgstr "Por favor, selecciona un número válido"
+
+#~ msgid "Set your value"
+#~ msgstr "Establecer valor (en números)"
+
+#~ msgid "These options are used to establish how many points topics and replies going to win from the following ranges"
+#~ msgstr "Estas opciones se utilizan para establecer la cantidad de puntos por temas y respuestas que se van a ganar a partir de los siguientes rangos"
+
+#~ msgid "Points earned from"
+#~ msgstr "Puntos a partir de"
+
+#~ msgid "View topic"
+#~ msgstr "Ver tema"
+
+#~ msgid "Your current rank is"
+#~ msgstr "Tu rango actual es"
+
+#~ msgid "Emblem"
+#~ msgstr "Emblema"
+
+#~ msgid "Total score"
+#~ msgstr "Puntuación total"
+
+#~ msgid "The next rank"
+#~ msgstr "El siguiente rango es"
+
+#~ msgid "Emblem of next rank"
+#~ msgstr "Emblema del siguiente rango"
+
+#~ msgid "Points missing you"
+#~ msgstr "Puntos que te faltan"
+
+#~ msgid "You reached the highest level!"
+#~ msgstr "Haz alcanzado el máximo nivel"
+
+#~ msgid "Points by"
+#~ msgstr "Puntos por"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Topics"
+#~ msgstr "Temas"
+
+#~ msgid "Replies"
+#~ msgstr "Respuestas"
+
+#~ msgid "My points handbook"
+#~ msgstr "Mi manual de puntos"
+
+#~ msgid "be for"
+#~ msgstr "Para ser"
+
+#~ msgid "Is required"
+#~ msgstr "Se requiere"
+
+#~ msgid "Rank emblem"
+#~ msgstr "Emblema"
+
+#~ msgid "A minimum of"
+#~ msgstr "Un mínimo de"
+
+#~ msgid "Point"
+#~ msgstr "Punto"
+
+#~ msgid "Points by rank"
+#~ msgstr "Puntos por rango"
+
+#~ msgid "As from rank"
+#~ msgstr "A partir del rango"
+
+#~ msgid "You will win"
+#~ msgstr "Tu ganarás"
+
+#~ msgid "Points by topics and"
+#~ msgstr "Puntos por temas y"
+
+#~ msgid "Points by replies"
+#~ msgstr "Puntos por respuestas"
+
+#~ msgid "Rank:"
+#~ msgstr "Rango"
+
+#~ msgid "Points:"
+#~ msgstr "Puntos:"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "Thread"
+#~ msgstr "Hilo"
+
+#~ msgid "Reply"
+#~ msgstr "Respuesta"
+
+#~ msgid "Earned points"
+#~ msgstr "Puntos obtenidos"
+
+#~ msgid "Total earned points by replies"
+#~ msgstr "Puntos obtenidos por respuestas"
+
+#~ msgid "Attention, when your reply points is equal to,"
+#~ msgstr "Atención, cuando el punto por respuesta es igual a"
+
+#~ msgid "does not have the minimum number of characters to be valid"
+#~ msgstr "Quiere decir que la cantidad mínima de caracteres en tu respuesta no es valido para ganar el punto."
+
+#~ msgid "Total earned points by topics"
+#~ msgstr "Puntos ganados por temas"
+
+#~ msgid "My points"
+#~ msgstr "Mis puntos"
+
+#~ msgid "my-points"
+#~ msgstr "mis-puntos"
+
+#~ msgid "<i class=\"fa fa-th-list\" aria-hidden=\"true\"></i> Summary score"
+#~ msgstr "<i class=\"fa fa-th-list\" aria-hidden=\"true\"></i> Resumen de puntos"
+
+#~ msgid "Details"
+#~ msgstr "Detalles"
+
+#~ msgid "General score"
+#~ msgstr "Puntación general"
+
+#~ msgid "Points per topics"
+#~ msgstr "Puntos por temas"
+
+#~ msgid "Points per replies"
+#~ msgstr "Puntos por respuestas"
+
+#~ msgid "Handbook"
+#~ msgstr "Manual"
+
+#~ msgid "A BadgeOs Achievements Widget"
+#~ msgstr "Un Widget de Logros para BadgeOs"
+
+#~ msgid "User Achievements"
+#~ msgstr "Logro de usuarios"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Show Total Points"
+#~ msgstr "Mostrar puntos total"
+
+#~ msgid "Show Achievements"
+#~ msgstr "Mostrar logros"
+
+#~ msgid "Show Times Awarded"
+#~ msgstr "Lista de premiados"
+
+#~ msgid "Icon Size"
+#~ msgstr "Tamaño de ícono"
+
+#~ msgid "Total Points"
+#~ msgstr "Puntos totales"
+
+#~ msgid "A BadgeOs Leaderboard"
+#~ msgstr "Una tabla de líderes de BadgeOs"
+
+#~ msgid "Leaderboard"
+#~ msgstr "Tabla de líderes"
+
+#~ msgid "Ascendant"
+#~ msgstr "Ascendente"
+
+#~ msgid "Descendant"
+#~ msgstr "Descendiente"
+
+#~ msgid "Users to show"
+#~ msgstr "Usuarios a mostrar"
+
+#~ msgid "Show avatar"
+#~ msgstr "Mostrar avatar"
+
+#~ msgid "Order"
+#~ msgstr "orden"
+
+#~ msgid "Avatar size"
+#~ msgstr "Tamaño del avatar"
+
+#~ msgid "Font size"
+#~ msgstr "Tamaño de la font"
+
+#~ msgid "Line Height"
+#~ msgstr "Altura de la línea"
+
+#~ msgid "Username Color"
+#~ msgstr "Color para los nombre de usuario"
+
+#~ msgid "Points Color"
+#~ msgstr "Color de puntos"
+
+#~ msgid "(UABBPS)Featured users"
+#~ msgstr "(UABBPS) Usuarios destacados"
+
+#~ msgid "This widgets is from Ultimate Activity bbpress. You can display the featured users of your forum"
+#~ msgstr "Este Widget es de Ultimate Activity bbpress. Con él podrás mostrar a los usuarios destacados de tu foro."
+
+#~ msgid "Hello, World!"
+#~ msgstr "Hola, Mundo!"
+
+#~ msgid "my-awesome-points-plugin"
+#~ msgstr "mi-asombroso-plugin-de-puntos"
+
+#~ msgid "Displayed messages"
+#~ msgstr "Mensajes mostrados"
+
+#~ msgid "Points plugin"
+#~ msgstr "Plugin de puntos"
+
+#~ msgid "Coming soon"
+#~ msgstr "Muy pronto"
+
+#~ msgid "bbPress status"
+#~ msgstr "Estado de bbPress"
+
+#~ msgid "enabled"
+#~ msgstr "Activo"
+
+#~ msgid "disabled"
+#~ msgstr "Inactivo"
+
+#~ msgid "Organized by"
+#~ msgstr "Ordenados por"
+
+#~ msgid "Most recents"
+#~ msgstr "Nuevos"
+
+#~ msgid "The older first"
+#~ msgstr "Viejos primero"
+
+#~ msgid "Manage options"
+#~ msgstr "Personalizar opciones"
+
+#~ msgid "Number of messages that will be displayed in the forum activity"
+#~ msgstr "Número de mensajes que se mostrará en la actividad foro"
+
+#~ msgid "How many messages you want to show?"
+#~ msgstr "¿Cuántos mensajes deseas mostrar?"
+
+#~ msgid "You can sort messages by older or newer"
+#~ msgstr "Puede ordenar los mensajes por los antiguos o más recientes"
+
+#~ msgid "How you want to sort messages?"
+#~ msgstr "¿Cómo quieres organizarlos?"
+
+#~ msgid "Most recent"
+#~ msgstr "Más recientes"
+
+#~ msgid "This is the number of words you want to display by content"
+#~ msgstr "Este es el número de palabras que desea mostrar por contenido"
+
+#~ msgid "Minimum number of words in the content?"
+#~ msgstr "Cantidad mínima de palabras"
+
+#~ msgid "Save settings"
+#~ msgstr "Guardar cambios"
+
+#~ msgid "All topics"
+#~ msgstr "Todos los temas"
+
+#~ msgid "All replies"
+#~ msgstr "Todas las respuestas"
+
+#~ msgid "All users"
+#~ msgstr "Todos los usuarios"
+
+#~ msgid "Registered users"
+#~ msgstr "Usuarios registrados"
+
+#~ msgid "Answer to"
+#~ msgstr "Respuesta a"
+
+#~ msgid "Topic"
+#~ msgstr "Tema"
+
+#~ msgid "View \"%s\""
+#~ msgstr "Ver \"%s\""
+
+#~ msgid "View full"
+#~ msgstr "Ver completo"
+
+#~ msgid "Posted by"
+#~ msgstr "Escrito por"
+
+#~ msgid "View profile of"
+#~ msgstr "Ver perfil de"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Delete"
+#~ msgstr "Borrar"
+
+#~ msgid "Content"
+#~ msgstr "Contenido"
+
+#~ msgid "Forum activity"
+#~ msgstr "Actividad del foro"
+
+#~ msgid "<p>Not found anything</p>"
+#~ msgstr "<p>No se ha encontrado ni temas ni respuestas</p>"
+
+#~ msgid "Topic points"
+#~ msgstr "Puntos por temas"
+
+#~ msgid "The function Is already running"
+#~ msgstr "La función está activa!"
+
+#~ msgid "Activate?"
+#~ msgstr "¿Activar?"
+
+#~ msgid "Minimum character"
+#~ msgstr "Caracteres mínimos"
+
+#~ msgid "Upload"
+#~ msgstr "Subir"
+
+#~ msgid "Please choose a valid number. The value for this field it must be greater than 0"
+#~ msgstr "El valor mínimo que debes establecer en este campo debe ser mayor a 0"
+
+#~ msgid "This option will serve to set the points earned by topics"
+#~ msgstr "Esta opción servirá para establecer los puntos ganados por temas"
+
+#~ msgid "These options serve to establish the points for topics from the following ranges"
+#~ msgstr "Estas opciones sirven para establecer los puntos por temas a partir de los siguientes rangos"
+
+#~ msgid "Starting of level"
+#~ msgstr "A partir de"
+
+#~ msgid "Point topic of"
+#~ msgstr "Puntos por tema para"
+
+#~ msgid "Ranks & names"
+#~ msgstr "Rangos y nombres"
+
+#~ msgid "Images per Ranks"
+#~ msgstr "imágenes por rango"
+
+#~ msgid "Awesome Points Plugin"
+#~ msgstr "Mi Asombroso Plugin de Puntos"
+
+#~ msgid "<p style=\"font-size: 16pt;\">On this page, you can manage options for your</p><p style=\"font-size: 17pt;\">Awesome Points Plugin</p>"
+#~ msgstr "<p style=\"font-size: 16pt;\">En esta página, tu podrás administrar las opciones de tu</p><p style=\"font-size: 17pt;\">Asombroso Plugin de Puntos</p>"
+
+#~ msgid "Edit \"%s\""
+#~ msgstr "Ver \"%s\""
+
+#~ msgid "<p>No se han encontrado ni temas ni respuestas</p>"
+#~ msgstr "Not found anything"

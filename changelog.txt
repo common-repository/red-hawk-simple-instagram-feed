@@ -1,0 +1,20 @@
+Changelog
+1.1
+Release date: July 27th 2017
+----------------------------------------------
+Major Enhancements
+1.- New simple and elegant style.
+2.- Get user ID with just paste the instagram username, without open a new page for get this.
+3.- Simplyfication of CSS. More lightheight and adaptative.
+3.- A new simple and easy dashboard, with examples.
+4.- 2 Simple styles, grids and List. Elegant presentation of the photos.
+5.- Now appear:  Likes, comments and publish date.
+-----------------------------------------------
+Compatibility Improvements
+ * Compatibility from Wordpress 4.5.x and last 4.8
+-----------------------------------------------
+Bug Fixeds
+ - CSS Correction.
+ - Ordered folders for more security and prevent access directly to the files.
+ - More responsiveness.
+-----------------------------------------------
